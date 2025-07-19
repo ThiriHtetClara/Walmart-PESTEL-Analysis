@@ -21,12 +21,9 @@ The analysis is informed by:
 
 - README.md
 - LICENSE
-- data/
- walmart_sales_data.csv
- python/
-   walmart_analysis.ipynb
-- Dashboard PowerBI
-   Walmart PESTEL Analysis Dashboard.pbix
+- walmart_sales_data.csv
+- python/ walmart_analysis.ipynb
+- Dashboard PowerBI/ Walmart PESTEL Analysis Dashboard.pbix
 
 ## Tools & Methods
 
