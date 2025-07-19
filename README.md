@@ -46,4 +46,4 @@ No proprietary or confidential information has been used.
 
 ---
 
-> © This project is shared under the [MIT License](https://opensource.org/licenses/MIT). You are free to reuse or adapt this material with attribution.
+> © This project is available under the MIT License for educational and reference purposes. 
